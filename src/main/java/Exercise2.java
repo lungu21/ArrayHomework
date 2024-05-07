@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Exercise2 {
+
     public static void main(String[] args) {
         // Read input line containing numbers separated by commas
         Scanner scanner = new Scanner(System.in);
